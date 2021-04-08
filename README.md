@@ -1,23 +1,22 @@
-# Getting Started with Create React App
+# Gaja Web
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+이 프로젝트는 [Create React App](https://github.com/facebook/create-react-app)(TSX) 으로 작성되었습니다.
 
-## Available Scripts
+## 프로젝트 설명
 
-In the project directory, you can run:
+
+
+## 리엑트 기능
+
+리엑트 기능 목록입니다.
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+개발 모드로 앱을 구동합니다.\
+[http://localhost:3000](http://localhost:3000)에 접속해 앱을 확인할 수 있습니다.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+파일을 수정하고 저장할 때마다 실시간으로 페이지가 바뀌는 것을 볼 수 있습니다.\
+또한 콘솔에서 바로 에러를 확인할 수 있습니다.
 
 ### `npm run build`
 
@@ -29,18 +28,8 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+리엑트에 대한 설명은 [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started)에서 더 확인하실 수 있습니다.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+리엑트를 배워보고 싶다면 [React documentation](https://reactjs.org/)를 방문하세요.
