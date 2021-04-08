@@ -1,0 +1,17 @@
+.DropBoxDiv {
+    width: 500px;
+    height: 200px;
+    text-align: center;
+    border: solid 3px black;
+    border-radius: 50px;
+    padding: 35% 0 10% 0;
+    background-color: lightgrey;
+}
+
+.placeholder {
+    width: 100%;
+    height: 100%;
+    font-size: 25px;
+    font: bold;
+    text-align: center;
+}
