@@ -6,6 +6,7 @@
     border-radius: 20px;
     padding: 35% 0 10% 0;
     background-color: #eeeeee;
+    cursor: pointer;
 }
 
 .DropBoxDiv:hover {
