@@ -20,15 +20,15 @@
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+`build` 폴더에 배포용 앱을 빌드합니다.\
+리엑트가 최고의 퍼포먼스를 만들 수 있도록 최적화 하는 작업입니다.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+build는 경량화되고 압축되며 파일 이름은 해시를 포함합니다.\
+결과적으로 앱을 사용할 준비를 마칩니다.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+더 많은 정보는 [deployment(배치)](https://facebook.github.io/create-react-app/docs/deployment)에 대한 자료를 확인하세요.
 
-## Learn More
+## 더 알아보기
 
 리엑트에 대한 설명은 [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started)에서 더 확인하실 수 있습니다.
 
