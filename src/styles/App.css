@@ -1,10 +1,14 @@
+body {
+    background-color: #ffffff;
+}
+
 .gradation {
     text-align: center;
     position: absolute;
     top: 335px;
     bottom: 0px;
     width: 100%;
-    background: linear-gradient(#1abc9c, #286357);
+    background: linear-gradient(#ffffff, #c8c8c8);
 }
 
 .dropBoxInApp {

@@ -2,10 +2,15 @@
     width: 500px;
     height: 200px;
     text-align: center;
-    border: solid 3px black;
-    border-radius: 50px;
+    border: dashed 3px #000000;
+    border-radius: 20px;
     padding: 35% 0 10% 0;
-    background-color: lightgrey;
+    background-color: #afafaf;
+}
+
+.DropBoxDiv:hover {
+    border: dashed 3px #000000;
+    background-color: #ffffff;
 }
 
 .placeholder {
