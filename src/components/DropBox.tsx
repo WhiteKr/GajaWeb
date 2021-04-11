@@ -22,6 +22,8 @@ class DropBox extends React.Component {
 		files.forEach((file: any, idx: any) => {
 			fd.append("myFile", file);
 		});
+
+		console.log(fd)
 	}
 
 	// Close() {
@@ -41,8 +43,10 @@ class DropBox extends React.Component {
 			for (let i = 0; i < e.dataTransfer.items.length; i++) {
 				let data = e.dataTransfer.items[i];
 				if (data.kind != 'file') {
+					console.log("input is not file");
 					return;
 				}
+				console.log(e.dataTransfer.items[i]);
 				filelist.push(e.dataTransfer.items[i].getAsFile());
 			}
 			this.uploadFile(filelist);
