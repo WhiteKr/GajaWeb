@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './styles/index.css';
-import App from './App';
+import Master from './Master';
 
 ReactDOM.render(
 	<React.StrictMode>
-		<App />
+		<Master />
 	</React.StrictMode>,
 	document.getElementById('root')
 );
