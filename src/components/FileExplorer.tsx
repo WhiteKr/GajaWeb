@@ -16,7 +16,6 @@ interface DataInfo {
 
 class FileExplorer extends React.Component<any, ExplorerState> {
 
-
     constructor(props: any) {
         super(props);
         this.state = {

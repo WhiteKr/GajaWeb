@@ -42,7 +42,7 @@ class DropBox extends React.Component {
 		if (e.dataTransfer.items) {
 			for (let i = 0; i < e.dataTransfer.items.length; i++) {
 				let data = e.dataTransfer.items[i];
-				if (data.kind != 'file') {
+				if (data.kind !== 'file') {
 					console.log("input is not file");
 					return;
 				}
