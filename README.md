@@ -1,14 +1,21 @@
 # Gaja Web
 
-이 프로젝트는 [Create React App](https://github.com/facebook/create-react-app)(TSX) 으로 작성되었습니다.
+[React](https://github.com/facebook/create-react-app) 앱 프로젝트입니다.\
+JavaScript 대신 TypeScript를 이용해 tsx 파일로 작성하였습니다.
+
 
 ## 프로젝트 설명
 
+학교에서 학습 자료 배포 및 과제 수집용으로 사용중인 프로그램이 불편해\
+직접 필요한 기능을 구현해 사용해보고자 시작한 소규모 팀 프로젝트입니다.
+
+일단 저는 리액트를 이용한 프론트엔드 개발을 맡았습니다.
 
 
 ## 리엑트 기능
 
 리엑트 기능 목록입니다.
+
 
 ### `npm start`
 
@@ -17,6 +24,7 @@
 
 파일을 수정하고 저장할 때마다 실시간으로 페이지가 바뀌는 것을 볼 수 있습니다.\
 또한 콘솔에서 바로 에러를 확인할 수 있습니다.
+
 
 ### `npm run build`
 
@@ -27,6 +35,7 @@ build는 경량화되고 압축되며 파일 이름은 해시를 포함합니다
 결과적으로 앱을 사용할 준비를 마칩니다.
 
 더 많은 정보는 [deployment(배치)](https://facebook.github.io/create-react-app/docs/deployment)에 대한 자료를 확인하세요.
+
 
 ## 더 알아보기
 
